@@ -80,3 +80,35 @@ button:hover{
     color: #fff;
     transition: 0.5s;
 }
+.container-text{
+    padding: 150px 0 0 130px;
+
+}
+.text h3{
+    color: #fff;
+    font-size: 15px;
+}
+
+.text h1{
+    color: #fff;
+    margin-top: 10px;
+}
+
+.text span{
+    color: #2ecc71;
+}
+
+.text p{
+    color: #fff;
+    font-size: 10px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.redes-sociais a{
+    color: #2ecc71;
+    padding: 10px;
+}
+.btn{
+    margin-top: 10px;
+}
