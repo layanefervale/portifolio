@@ -40,13 +40,13 @@ header{
 }
 
 .cabeçalho-link a{
-    color: #000;
+    color: #fff;
     font-size: 12px;
     font-weight: bolder;
 }
 
 .cabeçalho-link a:hover{
-    color: #000;
+    color: #fff;
     transition: 0.3s all;
 }
 
@@ -54,8 +54,8 @@ header{
     height: 40px;
     width: 40px;
     background: transparent;
-    border: 1px solid #000;
-    color: #000;
+    border: 1px solid #fff;
+    color: #fff;
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
@@ -66,21 +66,20 @@ header{
 }
 
 button{
-    color: #000;
+    color: #fff;
     background: transparent;
-    border: solid 1px #000;
+    border: solid 1px #ccbc2e;
     padding: 5px;
     border-radius: 15px;
     font-size: 12px;
     cursor: pointer;
     width: 150px;
-    font-weight: bolder;
     
 }
 
 button:hover{
-    background-color: #fff;
-    color: #fff;
+    background-color: transparent;
+    color: #ccbc2e;
     transition: 0.5s;
 }
 .container-text{
@@ -98,18 +97,18 @@ button:hover{
 }
 
 .text span{
-    color: #2ecc71;
+    color: #ccbc2e;
 }
 
 .text p{
     color: #fff;
-    font-size: 10px;
+    font-size: 11px;
     font-weight: 300;
     margin-top: 10px;
 }
 
 .redes-sociais a{
-    color: #2ecc71;
+    color: #ccbc2e;
     padding: 10px;
 }
 .btn{
